@@ -71,14 +71,14 @@ header{
 	right: 0;
 }
 header nav ul li:not(last-child) a{
-	padding:2px 25px;
+	padding:30px 25px;
 	color:var(--theme-white);
 }
 
 /* HERO */
 
 .banner{
-	background:url(../img/bg1.jpg) rgba(30, 25, 30, 0.7);
+	background:url(../img/bg1.jpg) rgba(30, 25, 30, 0.5);
 	background-repeat:no-repeat;
 	background-size:cover;
 	height:800px;
